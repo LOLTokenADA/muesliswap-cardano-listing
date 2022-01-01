@@ -1,0 +1,9 @@
+{
+    "policyId": "ad0aec69bf304355029bfdc6f87e6e6aba7e219f3140646b69aed96c",
+    "name": "LOL",
+    "symbol": "LOL",
+    "website": "https://loltoken.io",
+    "description": "Funniest and shittiest memecoin on Cardano blockchain created in honor of Spanish Laughing Guy aka “El Risatas”",
+    "totalSupply": 1000000000000000000,
+    "amounts": [1000000000000,10000000000000, 100000000000000, 1000000000000000]
+}
